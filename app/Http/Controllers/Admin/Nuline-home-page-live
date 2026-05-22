@@ -1,0 +1,200 @@
+<!--==============Home what we doe================-->
+<div class="Hm_whtwd">
+    <div class="Hm_whtwd_mn">
+        <div class="Hm_whtwd_title">
+            <h2 class="Hm_whtwd_heading">What We Do</h2>
+        </div>
+
+        <div class="Hm_whtwd_carouse">
+            <div class="owl-carousel Hm_whtwedo" id="whtwedo"><!--first item-->
+                <div class="Hm_whtwd_item">
+                    <div class="Hm_whtwd_itm_mn">
+                        <div class="Hm_whtwedbx">
+                            <div class="Hm_whtwedbx_cntnt">
+                                <h3 class="Hm_whtwd_title"><a
+                                        href="https://nulinewindows.com.au/aluminium-doors">Aluminium Doors</a></h3>
+
+                                <p>We specialise in commercial-grade aluminium glazed doors designed for architectural
+                                    homes and commercial projects. Large-format glass panels delivering uninterrupted
+                                    views are a key feature of our doors. All products are manufactured in Melbourne,
+                                    engineered for Australian conditions and built to exceed Australian standards.</p>
+
+                                <div class="Hm_whtwd_lnktgbx"><a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/bifold-doors">Bifold</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/stackable-and-sliding-doors">Stackable &amp;
+                                        Sliding</a> <a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/cavity-sliding-doors">Cavity Sliding </a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/automatic-sliding-doors">Automatic
+                                        Sliding</a> <a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/frameless-glass-bifold-doors">Frameless Glass
+                                        Bifold </a> <a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/hinge-and-french-doors">Hinge &amp;
+                                        French</a> <a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/pivot-doors">Pivot</a> <a
+                                        class="Hm_whtwd_lnks all"
+                                        href="https://nulinewindows.com.au/aluminium-doors">&hellip;</a></div>
+                                <a class="Hm_whtwd_linkbtn" href="https://nulinewindows.com.au/aluminium-doors">View All
+                                    Aluminium Doors </a>
+                            </div>
+
+                            <div class="Hm_whtwedbx_imgbx"><img alt="" class="Hm_whtwd_img" height="675" loading="lazy"
+                                    src="/upload/images/aluminium-door.webp" width="1104" /></div>
+                        </div>
+                    </div>
+                </div>
+                <!--second item-->
+
+                <div class="Hm_whtwd_item">
+                    <div class="Hm_whtwd_itm_mn">
+                        <div class="Hm_whtwedbx">
+                            <div class="Hm_whtwedbx_cntnt">
+                                <h3 class="Hm_whtwd_title"><a
+                                        href="https://nulinewindows.com.au/aluminium-windows">Aluminium Windows</a></h3>
+
+                                <p>Designed to frame views, maximise natural light and enhance ventilation throughout
+                                    the home our aluminium windows range from&nbsp;large fixed feature windows to
+                                    versatile operable systems. Custom manufactured in Melbourne to suit modern
+                                    architectural designs and perform in often harsh Australian conditions.</p>
+
+                                <div class="Hm_whtwd_lnktgbx"><a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/gas-strut-windows">Gas Strut</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/bifold-windows">Bifold</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/feature-fixed-windows">Feature &amp; Fixed
+                                    </a> <a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/servery-windows">Servery</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/curved-shaped-windows">Curved &amp; Shaped
+                                    </a> <a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/sashless-windows">Sashless</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/sliding-windows">Sliding</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/louvre-windows">Louvre</a> <a
+                                        class="Hm_whtwd_lnks all"
+                                        href="https://nulinewindows.com.au/aluminium-windows">&hellip;</a></div>
+                                <a class="Hm_whtwd_linkbtn" href="https://nulinewindows.com.au/aluminium-windows">View
+                                    All Aluminium Windows</a>
+                            </div>
+
+                            <div class="Hm_whtwedbx_imgbx"><img alt="" class="Hm_whtwd_img" height="675" loading="lazy"
+                                    src="/upload/images/aluminium-windows.webp" width="1104" /></div>
+                        </div>
+                    </div>
+                </div>
+                <!--third item-->
+
+                <div class="Hm_whtwd_item">
+                    <div class="Hm_whtwd_itm_mn">
+                        <div class="Hm_whtwedbx">
+                            <div class="Hm_whtwedbx_cntnt">
+                                <h3 class="Hm_whtwd_title"><a
+                                        href="https://nulinewindows.com.au/steel-doors-windows">Steel Doors &amp;
+                                        Windows</a></h3>
+
+                                <p>Our custom steel doors and windows introduce bold architectural lines and refined
+                                    internal glazing to contemporary spaces. Ideal for internal partitions, cellars and
+                                    statement features, each system is made to order with flexible design options and a
+                                    wide range of glazing and hardware selections.</p>
+
+                                <div class="Hm_whtwd_lnktgbx"><a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/steel-doors">Steel Doors</a> <a
+                                        class="Hm_whtwd_lnks" href="https://nulinewindows.com.au/steel-windows">Steel
+                                        Windows</a> <a class="Hm_whtwd_lnks all"
+                                        href="https://nulinewindows.com.au/steel-doors-windows">&hellip;</a></div>
+                                <a class="Hm_whtwd_linkbtn" href="https://nulinewindows.com.au/steel-doors-windows">View
+                                    All Steel Doors &amp; Windows </a>
+                            </div>
+
+                            <div class="Hm_whtwedbx_imgbx"><img alt="" class="Hm_whtwd_img" loading="lazy"
+                                    src="/upload/images/steel-windows-doors.webp" /></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="Hm_whtwd_item">
+                    <div class="Hm_whtwd_itm_mn">
+                        <div class="Hm_whtwedbx">
+                            <div class="Hm_whtwedbx_cntnt">
+                                <h3 class="Hm_whtwd_title"><a
+                                        href="https://nulinewindows.com.au/commercial">Commercial</a></h3>
+
+                                <p>Engineered for demanding environments, our commercial aluminium window and door
+                                    systems deliver durability, security and reliable performance. Designed for offices,
+                                    retail, hospitality and large-scale developments, every system is custom
+                                    manufactured in Melbourne to meet project specifications and compliance
+                                    requirements.</p>
+
+                                <div class="Hm_whtwd_lnktgbx"><a class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/commercial-doors">Commercial Doors</a> <a
+                                        class="Hm_whtwd_lnks"
+                                        href="https://nulinewindows.com.au/commercial-windows">Commercial Windows</a> <a
+                                        class="Hm_whtwd_lnks all" href="#">&hellip;</a></div>
+                                <a class="Hm_whtwd_linkbtn" href="https://nulinewindows.com.au/commercial">View All
+                                    Commercial Doors &amp; Windows</a>
+                            </div>
+
+                            <div class="Hm_whtwedbx_imgbx"><img alt="" class="Hm_whtwd_img" loading="lazy"
+                                    src="/upload/images/commercial.webp" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--==============/Home what we doe================--><!--Home cta-->
+
+<div class="hm_cta_wr">
+    <div class="container">
+        <div class="hm_cta_mn">
+            <div class="hm_cta_rw">
+                <div class="hm_cta_leftcol"><img alt="" class="hm_cta_img" height="885" loading="lazy"
+                        src="/upload/images/hm-cta-cntnt.webp" width="1365" /></div>
+
+                <div class="hm_cta_rightcol">
+                    <div class="hm_cta_cntnt">
+                        <h2 class="hm_cta_h2">Backed by decades of experience, <span>we supply &amp; install
+                                high-quality glazed windows and doors for architectural homes and commercial
+                                buildings.</span></h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--/Home cta--><!--our story-->
+
+<div class="hm_story">
+    <div class="container">
+        <div class="hm_story_mn">
+            <div class="hm_story_hd">
+                <h2 class="hm_story_h2">Family Craftsmanship, <span>Melbourne Made</span></h2>
+            </div>
+
+            <div class="hm_story_rw">
+                <div class="hm_story_bxlft"><img alt="" class="hm_story_img" height="1806" loading="lazy"
+                        src="/upload/images/Jerry_Arjun2(1).webp" width="1524" /></div>
+
+                <div class="hm_story_bxright">
+                    <div class="hm_story_bxcntnt">
+                        <p>Nuline Windows + Doors is a family-owned business proudly manufacturing custom aluminium
+                            windows and doors in Melbourne. With decades of industry experience and a dedicated local
+                            factory, our team combines precision craftsmanship with modern engineering to deliver
+                            solutions for both residential and commercial projects.</p>
+
+                        <p>By controlling the manufacturing process in-house, we maintain strict quality standards while
+                            offering the flexibility to create bespoke designs tailored to each project. From concept to
+                            installation, we focus on durability, performance and refined finishes that enhance the way
+                            people live and work.</p>
+                        <a class="hm_story_linkbtn" href="about">About Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/our story-->
+</div>
