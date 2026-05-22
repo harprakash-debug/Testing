@@ -12,6 +12,14 @@ class AdminController extends Controller
 {
     public function index(Request $request){
         DB::enableQueryLog();
+        "For test";
+        // $cached = Cache::remember('response', 6000, function () {
+        //     return DB::table('users')
+        //         ->select('id', 'name')
+        //         ->orderBy('id')
+        //         ->simplePaginate(100)
+        //         ->toArray();
+        // });
         if (empty(cache::get('response'))) {
             return response()->json(['data' => 'error'], 404);
         }
