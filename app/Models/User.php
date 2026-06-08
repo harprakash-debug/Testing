@@ -10,10 +10,11 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Casts\Attribute;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
+use Tymon\JWTAuth\Contracts\JWTSubject;
 
 #[Fillable(['name', 'email', 'password'])]
 #[Hidden(['password', 'remember_token'])]
-class User extends Authenticatable
+class User extends Authenticatable implements JWTSubject
 {
     /** @use HasFactory<UserFactory> */
     use HasFactory, Notifiable;
@@ -31,21 +32,24 @@ class User extends Authenticatable
         ];
     }
 
-    // public function setNameAttribute($value){
-    //     $this->attributes['name'] = str_replace(' ', '_', $value);
+    // public function getNameAttribute($value){
+    //     $data = json_decode($value, true);
+    //     return $data['name'];
     // }
 
-    public function name(){
-        return Attribute::make(
-            set: fn($value) => strtoupper($value),
-        );
+    /**
+     * Get the identifier that will be stored in the subject claim of the JWT.
+     */
+    public function getJWTIdentifier()
+    {
+        return $this->getKey();
     }
 
-    // protected static function booted(){
-    //     static::addGlobalScope('uppercase', function($query){
-    //         $query->where('email', 'heller.hannah@example.net');
-    //     });
-    // }
-
-    
+    /**
+     * Return a key value array, containing any custom claims to be added to the JWT.
+     */
+    public function getJWTCustomClaims()
+    {
+        return [];
+    }
 }

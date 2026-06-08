@@ -42,6 +42,10 @@ return [
             'driver' => 'session',
             'provider' => 'users',
         ],
+        'api' => [
+            'driver' => env('AUTH_GUARD_DRIVER', 'jwt'),
+            'provider' => 'users',
+        ],
     ],
 
     /*
