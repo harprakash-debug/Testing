@@ -37,6 +37,9 @@ class User extends Authenticatable implements JWTSubject
     //     return $data['name'];
     // }
 
+    public function getCreatedAtAttribute($value){
+        return date('d-M-Y', strtotime($value));
+    }
     /**
      * Get the identifier that will be stored in the subject claim of the JWT.
      */
